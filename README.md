@@ -1,3 +1,3 @@
 # JD 
 
-![image](https://github/GochanTao/JDnet.png)
+![image](https://github.com/GochanTao/JD/JDnet.png)
